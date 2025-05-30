@@ -4,7 +4,7 @@
 
 This repository contains a set of example plugins for use with Signadot.
 You can take this as a base for developing your own Signadot Plugins.
-For more information, please refer our documentation at [sandbox-resources](https://docs.signadot.com/docs/sandbox-resources)
+For more information, please refer our documentation at [sandbox-resources](https://www.signadot.com/docs/concepts/resources)
 
 - [`k8s-apply`](./k8s-apply/): A plugin to provision Kubernetes resources.
 - [`mariadb`](./mariadb/): A plugin that provisions a temporary mariadb server.
